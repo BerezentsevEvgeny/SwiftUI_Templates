@@ -11,6 +11,7 @@
 		8C6AC2212847F95000CAB2D4 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C6AC2202847F95000CAB2D4 /* ContentView.swift */; };
 		8C6AC2232847F95200CAB2D4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8C6AC2222847F95200CAB2D4 /* Assets.xcassets */; };
 		8C6AC2262847F95200CAB2D4 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8C6AC2252847F95200CAB2D4 /* Preview Assets.xcassets */; };
+		8C6AC22F2847F9E800CAB2D4 /* Text_.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C6AC22E2847F9E800CAB2D4 /* Text_.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		8C6AC2202847F95000CAB2D4 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		8C6AC2222847F95200CAB2D4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8C6AC2252847F95200CAB2D4 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		8C6AC22E2847F9E800CAB2D4 /* Text_.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Text_.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				8C6AC21E2847F95000CAB2D4 /* SwiftUI_TemplatesApp.swift */,
 				8C6AC2202847F95000CAB2D4 /* ContentView.swift */,
+				8C6AC22E2847F9E800CAB2D4 /* Text_.swift */,
 				8C6AC2222847F95200CAB2D4 /* Assets.xcassets */,
 				8C6AC2242847F95200CAB2D4 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8C6AC22F2847F9E800CAB2D4 /* Text_.swift in Sources */,
 				8C6AC2212847F95000CAB2D4 /* ContentView.swift in Sources */,
 				8C6AC21F2847F95000CAB2D4 /* SwiftUI_TemplatesApp.swift in Sources */,
 			);
